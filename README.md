@@ -43,8 +43,8 @@
 
 ##  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmilAydinsoy-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/EmilAydinsoy)  
-📧 `emil.aydinsoy@gmail.com`
+ `emil.aydinsoy@gmail.com`
 
 ---
 
-*Thanks for visiting my GitHub profile! ⭐*
+*Thanks for visiting my GitHub profile! *
