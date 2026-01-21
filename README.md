@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emil Aydinsoy
+# Hi, I'm Emil Aydinsoy
 
  **PhD in Chemical Engineering** |  **Senior Data Scientist & Lecturer**  
  Based in Azerbaijan |  Specialising in AI, GIS, and Process Simulation  
